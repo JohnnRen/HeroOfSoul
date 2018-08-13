@@ -1,0 +1,12 @@
+[ignore]
+./build
+./node_modules
+[include]
+./src
+[libs]
+./src/models/struct.js
+[lints]
+
+[options]
+
+[strict]
